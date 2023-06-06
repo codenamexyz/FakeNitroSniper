@@ -1,0 +1,8 @@
+C:\Users\Snobbe\source\repos\Fake Nitro Sniper [By CodenameXYZ]\Fake Nitro Sniper [By CodenameXYZ]\bin\Debug\Fake Nitro Sniper [By CodenameXYZ].exe.config
+C:\Users\Snobbe\source\repos\Fake Nitro Sniper [By CodenameXYZ]\Fake Nitro Sniper [By CodenameXYZ]\bin\Debug\Fake Nitro Sniper [By CodenameXYZ].exe
+C:\Users\Snobbe\source\repos\Fake Nitro Sniper [By CodenameXYZ]\Fake Nitro Sniper [By CodenameXYZ]\bin\Debug\Fake Nitro Sniper [By CodenameXYZ].pdb
+C:\Users\Snobbe\source\repos\Fake Nitro Sniper [By CodenameXYZ]\Fake Nitro Sniper [By CodenameXYZ]\obj\Debug\Fake Nitro Sniper [By CodenameXYZ].csproj.AssemblyReference.cache
+C:\Users\Snobbe\source\repos\Fake Nitro Sniper [By CodenameXYZ]\Fake Nitro Sniper [By CodenameXYZ]\obj\Debug\Fake Nitro Sniper [By CodenameXYZ].csproj.SuggestedBindingRedirects.cache
+C:\Users\Snobbe\source\repos\Fake Nitro Sniper [By CodenameXYZ]\Fake Nitro Sniper [By CodenameXYZ]\obj\Debug\Fake Nitro Sniper [By CodenameXYZ].csproj.CoreCompileInputs.cache
+C:\Users\Snobbe\source\repos\Fake Nitro Sniper [By CodenameXYZ]\Fake Nitro Sniper [By CodenameXYZ]\obj\Debug\Fake Nitro Sniper [By CodenameXYZ].exe
+C:\Users\Snobbe\source\repos\Fake Nitro Sniper [By CodenameXYZ]\Fake Nitro Sniper [By CodenameXYZ]\obj\Debug\Fake Nitro Sniper [By CodenameXYZ].pdb
